@@ -1,0 +1,11 @@
+{
+  "id": "$tenjiku_size_picker_manifest_v1",
+  "version": 19,
+  "title": "Nikhil's Building Tools",
+  "author": "Nikhil",
+  "text": "Building search, personal district packs, filters, favourites, direct placement and a complete in-game feature guide.",
+  "min version": 11218,
+  "platforms": [
+    "desktop"
+  ]
+}

@@ -1,0 +1,16 @@
+[
+  {
+    "id": "$tenjiku_size_picker_kermit_icon_v1",
+    "type": "animation",
+    "frames": [
+      {
+        "bmp": "kermit_icon.png"
+      }
+    ]
+  },
+  {
+    "id": "$tenjiku_size_picker_controller_v1",
+    "type": "data",
+    "script": "Nikhils_Building_Tools.lua"
+  }
+]
